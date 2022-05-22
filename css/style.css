@@ -23,17 +23,3 @@
     background-color: white !important;
 }
 
-#categorySection .col-lg-6 {
-    position: relative;
-}
-
-#categorySection a {
-    position: absolute;
-    top: 550px;
-    left: 200px;
-}
-
-#categorySection a:hover {
-    color: #f3c031;
-    background-color: black;
-}
